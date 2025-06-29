@@ -126,7 +126,7 @@ const About = () => {
       >
         <img 
           src="/images/rating/newplot.png"
-          alt="Наши проекты"
+          alt="Аналитика"
           style={{
             width: '100%',
             height: 'auto',
