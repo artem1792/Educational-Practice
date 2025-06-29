@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json  # Опционально, если хотите фиксировать зависимости
+
+# Файлы окружения
+.env
+.env.local
+.env.development
+.env.production
+
+# React (фронтенд)
+build/
+dist/
+.DS_Store
+*.log
+coverage/
+
+# Временные файлы и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+logs/
+*.log
