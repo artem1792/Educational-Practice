@@ -46,7 +46,6 @@ const Home = () => {
         </Box>
       </Box>
 
-      {/* О студии */}
       <Box sx={{ py: 10, px: { xs: 2, md: 4 } }} data-aos="fade-up">
         <Box sx={{ 
           maxWidth: '1600px', 
